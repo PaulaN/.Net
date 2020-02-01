@@ -1,0 +1,6 @@
+C:\Users\paula\source\repos\Projeto1.1.1\Projeto 1.1.2\bin\Debug\Projeto 1.1.2.exe.config
+C:\Users\paula\source\repos\Projeto1.1.1\Projeto 1.1.2\bin\Debug\Projeto 1.1.2.exe
+C:\Users\paula\source\repos\Projeto1.1.1\Projeto 1.1.2\bin\Debug\Projeto 1.1.2.pdb
+C:\Users\paula\source\repos\Projeto1.1.1\Projeto 1.1.2\obj\Debug\Projeto 1.1.2.exe
+C:\Users\paula\source\repos\Projeto1.1.1\Projeto 1.1.2\obj\Debug\Projeto 1.1.2.pdb
+C:\Users\paula\source\repos\Projeto1.1.1\Projeto 1.1.2\obj\Debug\Projeto1.1.2.csprojAssemblyReference.cache
